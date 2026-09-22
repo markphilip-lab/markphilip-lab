@@ -1,4 +1,4 @@
-# Hey, I'm Mark!:
+👋 Hey, I'm Mark!:
 <br><br>💻 BSIT Student | Aspiring Software Developer<br><br>I'm an Information Technology student currently learning how to turn ideas into functional and useful software. I'm interested in web development, backend development, databases, and AI.<br><br>I'm still growing as a developer, so I'm constantly experimenting with new technologies, building small projects, and learning from the things that don't work the first time.<br><br>🚀 Currently Learning<br><br>- HTML & CSS<br>- JavaScript<br>- C++<br>- Python<br>- Laravel & PHP<br>- MySQL<br>- Git & GitHub<br><br>🎯 My Goal<br><br>To become a skilled software developer who can build practical applications, solve real-world problems, and eventually explore the world of AI and intelligent systems.<br><br>«Learning one line of code at a time.»
 
 
